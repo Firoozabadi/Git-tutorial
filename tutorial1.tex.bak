@@ -1,0 +1,24 @@
+\documentclass[12pt]{article}
+
+\begin{document}
+
+
+Target folder is important:\\
+Cd\\
+Cd /c/\\
+Pwd\\
+cd ../\\
+mkdir\\
+\\
+Git init\\
+Git add test.txt\\
+Git add .\\
+Git commit –m ‘commit name’\\
+git config --global user.email "you@example.com"\\
+git config --global user.name "Your Name"\\
+git remote add origin URL\\
+git push -u origin master (Branch)\\
+git clone 
+
+
+\end{document}
